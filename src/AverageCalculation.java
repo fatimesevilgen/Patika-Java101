@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Patika1 {
+public class AverageCalculation {
     public static void main(String[] args) {
 
          //Not ortalaması hesaplama

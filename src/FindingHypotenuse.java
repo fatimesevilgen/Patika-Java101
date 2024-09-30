@@ -1,10 +1,9 @@
 import java.util.Scanner;
 
-public class Patika3 {
+public class FindingHypotenuse {
     public static void main(String[] args) {
 
         //Dik Üçgende Hipotenüs Bulma
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("1. Kenarı Giriniz: ");

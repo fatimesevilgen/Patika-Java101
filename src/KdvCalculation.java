@@ -1,10 +1,9 @@
 import java.util.Scanner;
 
-public class Patika2 {
+public class KdvCalculation {
     public static void main(String[] args) {
 
         //KDV tutarı hesaplayan program
-
         double kdvOrani = 0.18;
         Scanner scanner = new Scanner(System.in);
 
